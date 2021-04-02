@@ -5,7 +5,7 @@ Release: v1.0
 
 
 
-3 Apr: Unix 
+3 Apr: Unix (.py file)
 
-Unknown: Windows
+Unknown: Windows (.exe setup file)
 
